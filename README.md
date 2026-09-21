@@ -1,4 +1,4 @@
-# Letícia Zangirolami Peres — Portfolio
+# Letícia Peres — Portfolio
 
 Personal professional portfolio focused on medicine, scientific research, AI evaluation, software development and digital communities.
 
